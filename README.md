@@ -6,7 +6,7 @@
 <div>
 <h2 align="center"> About Me </h2>
   <div align="center">
-<img src="[https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://www.icegif.com/wp-content/uploads/2021/12/icegif-258.gif)" align="right">
+<img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-258.gif" align="right">
   </div> 
 <li>
  <b>Name:</b> Rhia </li>
@@ -25,7 +25,7 @@
 <h2 align="center">            ~ ʚɞ knowledge ʚɞ ~</h2>
  <br><p>
   <div align="center">
-<img src="[https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif](https://media.tenor.com/tK6WHz4NeyAAAAAM/jinx-arcane.gif)" align="right">
+<img src="https://media.tenor.com/tK6WHz4NeyAAAAAM/jinx-arcane.gif" align="right">
   </div>
 </div>
 <div>
@@ -37,7 +37,7 @@
 
 <h2 align="center">  ✮⋆˙ Thanks for reading! ✮⋆˙ </h2>
 <div align="center">
-<img src="[https://i.imgur.com/tzYKRfd.gif](https://media1.giphy.com/media/IrpPOrRJzqcNOg1hSf/200.gif?cid=6c09b952nfaklq6itpmp8xm7n3ahglpaqcvek6t7j27ze98n&ep=v1_internal_gif_by_id&rid=200.gif&ct=g)">
+<img src="https://i.imgur.com/tzYKRfd.gif">
 </div>
 <hr>
 </div>
