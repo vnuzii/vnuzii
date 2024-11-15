@@ -37,7 +37,6 @@
 
 <h2 align="center">  ✮⋆˙ Thanks for reading! ✮⋆˙ </h2>
 <div align="center">
-<img src="https://64.media.tumblr.com/f94a567bfcac9d0b07a88c3cda9aa5cb/1a7ec089816565ad-09/s540x810/e12d036acc9d88960cbe3f4b61c6b27c9affff16.gif">
 </div>
 <hr>
 </div>
