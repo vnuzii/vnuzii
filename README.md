@@ -1,7 +1,7 @@
 
 ## Hello, welcome to my profile ⋆.˚ ᡣ𐭩 .𖥔˚
 
-──★ ˙🧷 ̟ !! I aspire to be a front-end developer
+──★ ˙🧷 ̟ !! aspiring front-end developer
 
 <div>
 <h2 align="center"> About Me </h2>
