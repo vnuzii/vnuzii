@@ -2,8 +2,6 @@
 
 ──★ ˙🧷 ̟ !! I aspire to be a front-end developer
 
-Here are some ideas to get you started:
-
 <div>
 <h2 align="center"> About Me </h2>
   <div align="center">
