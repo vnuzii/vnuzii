@@ -11,8 +11,6 @@
 <li>
  <b>Name:</b> Rhia </li>
 <li>
-</li>
-<li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, Drawing, Reading
 </li>
 <li>
